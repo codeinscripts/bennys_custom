@@ -1,11 +1,12 @@
 
-# Installation
+# Installation/Kurulum
 
-1. Download 
-2. Add "ensure SB-Bennys" to your server.cfg
-3. Start Server 
+1. Scripti İndirin.
+2. Server.cfg'ye start bennys_custom satırını ekleyiniz.
+3. Ardından Serverı Başlatabilirsiniz.İyi Oyunlar. 
 
 
-# Any Issues Or Help 
+# Kişisel Discordum
 
-https://discord.gg/jC9YgyK
+https://discord.gg/3bUCTQx
+
